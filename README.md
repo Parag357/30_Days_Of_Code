@@ -5,8 +5,14 @@
 This repository contains my solutions to the challenges of Hackerrank's 30 Days Of Code.
 
 <div class="text-gray-light mb-2">
+  
+</div>
+
+<div class="text-purple">
+  
   Solutions in java-8 :- day21 : generics
 
   Solutions in python-3 :- rest all
+  
 </div>
   
